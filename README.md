@@ -30,7 +30,7 @@ Este projeto é uma demonstração prática do uso do framework Spring Boot para
 
 ```bash
 # clonar repositório
-git clone https://github.com/GabrielApolinario08/workshop-spring-boot-mongodb
+git clone https://github.com/GabrielApolinario08/workshop-spring-boot-mongodb.git
 
 # Compile e rode o projeto na sua IDE.
 ```
