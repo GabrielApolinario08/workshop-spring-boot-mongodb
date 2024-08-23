@@ -1,4 +1,4 @@
-# Web Services - Spring Boot
+# Rede Social Simplificada - Spring Boot
 
 # Sobre o projeto
 
@@ -15,10 +15,10 @@ Este projeto é uma demonstração prática do uso do framework Spring Boot para
 - Postman
 
 # Modelo de Domínio
-![modelo domínio]()
+![modelo domínio](https://github.com/user-attachments/assets/cbdfc128-e484-4d47-af13-2e1cbc832f6b)
 
 # Instância de Domínio
-![instancia domínio]()
+![instancia domínio](https://github.com/user-attachments/assets/bbbddb5d-155c-4407-a35a-d90fa3cfb48f)
   
 # Como executar o projeto
 
